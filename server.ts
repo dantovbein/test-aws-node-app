@@ -8,6 +8,6 @@ app.get('/', (req, res) => {
 
 
 
-app.listen(2222, () => {
+app.listen(3000, () => {
   console.log("Server listenning on port 2222");
 })
