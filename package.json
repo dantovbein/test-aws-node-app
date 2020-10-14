@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dantovbein/test-aws-node-app#readme",
   "dependencies": {
+    "@types/node": "^14.11.8",
     "express": "^4.17.1"
   },
   "devDependencies": {
